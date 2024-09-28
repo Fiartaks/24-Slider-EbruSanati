@@ -1,4 +1,4 @@
-# 🎨 Ebru Sanatı Web Sitesi
+# 🎨 Ebru Sanatı
 
 Bu projede **Ebru** sanatını tanıtmak için hazırladığım web sitesinin kaynak kodları bulunmaktadır.
 
